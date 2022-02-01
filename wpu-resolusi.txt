@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- konsisten programeinmng
+- membuat platform untuk pengelolaan video
+- Membuat forum diskusi
