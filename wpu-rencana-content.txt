@@ -3,5 +3,8 @@ rencana konten wpu
 - Javascript
   * ES6
   * framework js
+- database
+  * MYSQL
+  * FIREBASE
 - PHP Frameworks
 - Interview
