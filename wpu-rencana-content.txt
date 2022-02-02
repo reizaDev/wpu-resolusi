@@ -4,6 +4,7 @@ rencana konten wpu
   * ES6
   * framework js 
     ^ React 
+    ehehehe
 - database
   * MYSQL
   * FIREBASE
