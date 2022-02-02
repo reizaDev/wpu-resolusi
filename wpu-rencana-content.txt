@@ -2,11 +2,11 @@ rencana konten wpu
 
 - Javascript
   * ES6
-  * framework js
-   ^ Vue
+  * framework js 
+    ^ React 
 - database
   * MYSQL
   * FIREBASE
-- PHP Frameworks
-  ^ Laravel
+- PHP Frameworks 
+  ^ Laravel 
 - Interview
