@@ -1,5 +1,5 @@
 WPU RESOLUSI
-- konsisten programeinmng
+- konsisten programing
 - membuat platform untuk pengelolaan video
 - Membuat forum diskus
 - Kolaborasi dengan lebih banyak expert
